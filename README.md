@@ -33,7 +33,6 @@ This tool supports firmware tuning for the following Xiaomi 4-series electric sc
 ### Step-by-Step Guide
 1. **Download the executable:** Grab the latest release and execute.
 2. **Turn on your scooter:** Make sure your scooter is powered on and Bluetooth is enabled on your device (if connecting wirelessly)#
-3. **Run the tool:** Execute the `[YourToolName].exe` as an Administrator.
 4. **Connect:** Select your scooter model from the dropdown list and click **"Connect"**.
 5. **Select your tuning:** Choose your desired speed limits and acceleration settings. 
 6. **Flash:** Click **"Flash Firmware"** and wait for the process to finish. **Do not turn off your scooter or disconnect the cable during this process.**
